@@ -1,0 +1,199 @@
+Person 2: "How about we watch a comedy?"
+
+Person 2: "Sure, is that better?"
+
+Person 2: "I love Game of Thrones."
+
+Person 2: "Yes, that sounds like a great idea."
+
+Person 2: "I love action movies."
+
+Person 2: "Yes, that sounds like fun."
+
+Person 2: "I love rock music."
+
+Person 2: "Sure, that sounds interesting."
+
+Person 2: "I'm reading 'The Girl on the Train'."
+
+Person 2: "No thanks, let's watch a thriller."
+
+Person 2: "I love popcorn with extra butter."
+
+Person 2: "Let's watch a series, I want to binge-watch."
+
+Person 2: "I love playing FIFA."
+
+Person 2: "Sure, let's put on some classic rock."
+
+Person 2: "I love watching National Geographic."
+
+Person 2: "No way, I hate horror movies."
+
+Person 2: "I love science fiction."
+
+Person 2: "Sure, that sounds like a cool experience."
+
+Person 2: "I love nachos with extra cheese and jalapenos."
+
+Person 2: "Yes, let's watch a French film with subtitles."
+
+Person 2: "I love listening to classical music."
+
+Person 2: "Let's play video games, I'm in the mood for some action."
+
+Person 2: "Breaking Bad, for sure."
+
+Person 2: "No, let's watch a movie instead."
+
+Person 2: "I love chocolate-covered pretzels."
+
+Person 2: "Let's watch a biopic, I'm interested in learning more about historical figures."
+
+Person 2: "Sure, that sounds like a good choice."
+
+Person 2: "I love classic rock."
+
+Person 2: "Let's watch a documentary."
+
+Person 2: "I love playing Minecraft."
+
+Person 2: "Yes, let's play Monopoly."
+
+Person 2: "I love the soundtrack to The Lion King."
+
+Person 2: "I'd rather watch a comedy."
+
+Person 2: "I love To Kill a Mockingbird."
+
+Person 2: "Sure, put on something chill."
+
+Person 2: "I'm really into The Crown right now."
+
+Person 2: "Yes, let's play some Mario Kart."
+
+Person 2: "I love eating popcorn with M&M's."
+
+Person 2: "Yes, let's watch Stranger Things."
+
+Person 2: "I love watching Home Alone."
+
+Person 2: "Sure, let's listen to Harry Potter."
+
+Person 2: "I love Friends."
+
+Person 2: "Sure, I'll join in."
+
+Person 2: "I love the 'I am your father' scene in The Empire Strikes Back."
+
+Person 2: "Sure, that could be interesting."
+
+Person 2: "I love The Lord of the Rings trilogy."
+
+Person 2: "Sure, where's the nearest venue?"
+
+Person 2: "I love the Nintendo Switch."
+
+Person 2: "Let's watch a classic movie."
+
+Person 2: "I love 'Bohemian Rhapsody' by Queen."
+
+Person 2: "Yes, that could be fun."
+
+Person 2: "I love the Harry Potter series."
+
+Person 2: "No, I don't like scary movies."
+
+Person 2: "I love Game of Thrones."
+
+Person 2: "Sure, what do you have in mind?"
+
+Person 2: "I love pop music."
+
+Person 2: "Sure, what's it about?"
+
+Person 2: "I love The Godfather."
+
+Person 2: "Yes, that sounds like a great idea."
+
+Person 2: "I love To Kill a Mockingbird."
+
+Person 2: "Sure, that sounds like a good idea."
+
+Person 2: "I love popcorn."
+
+Person 2: "Sure, which one?"
+
+Person 2: "I love Stranger Things."
+
+Person 2: "Yes, let's put on some classical music."
+
+Person 2: "I love The Legend of Zelda."
+
+Person 2: "Sure, which one?"
+
+Person 2: "I love Hamilton."
+
+Person 2: "Yes, let's play Cards Against Humanity."
+
+Person 2: "I love the soundtrack from The Lion King."
+
+Person 2: "Sure, which one?"
+
+Person 2: "I love the Harry Potter series."
+
+Person 2: "Yes, that sounds like a good idea."
+
+Person 2: "I love chips and salsa."
+
+Person 2: "Sure, let's play Jeopardy."
+
+Person 2: "I love the music video for Michael Jackson's 'Thriller'."
+
+Person 2: "Sure, which one?"
+
+Person 2: "How about a comedy?"
+
+Person 2: "Sure, let's play Mario Kart."
+
+Person 2: "I love Game of Thrones."
+
+Person 2: "I like all types, but my favorite is hip-hop."
+
+Person 2: "Let's watch TV."
+
+Person 2: "I like buttered popcorn."
+
+Person 2: "Let's watch a TV series."
+
+Person 2: "I love playing Call of Duty."
+
+Person 2: "Let's watch a documentary."
+
+Person 2: "I like sour gummies."
+
+Person 2: "Let's listen to music."
+
+Person 2: "I love action movies."
+
+Person 2: "Let's play card games."
+
+Person 2: "I like classical music."
+
+Person 2: "Let's watch a romantic comedy."
+
+Person 2: "I like chips and dip."
+
+Person 2: "Let's listen to a podcast."
+
+Person 2: "I love chocolate-covered pretzels."
+
+Person 2: "Let's watch a foreign film."
+
+Person 2: "I like listening to high-energy dance music."
+
+Person 2: "I love using garlic parmesan seasoning on my popcorn."
+
+Person 2: "Not yet, but I can't wait to binge watch it."
+
+Person 2: "I would like to watch that new program."

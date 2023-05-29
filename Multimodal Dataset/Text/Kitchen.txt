@@ -1,0 +1,199 @@
+Person 2: "No, we ran out yesterday."
+
+Person 2: "Sure, here you go."
+
+Person 2: "I think there's one can left in the pantry."
+
+Person 2: "No, I've never used one before."
+
+Person 2: "Yeah, we should get it checked by a professional."
+
+Person 2: "I bought some cucumbers and tomatoes yesterday."
+
+Person 2: "The sharp one is in the drawer on your right."
+
+Person 2: "Maybe we should. This one's pretty old."
+
+Person 2: "Yes, please. Black, no sugar."
+
+Person 2: "No, I didn't. Check in the drawer beside the stove."
+
+Person 2: "Sure, sounds good."
+
+Person 2: "Sure, let me grab one from the drawer."
+
+Person 2: "Yes, there's a new bottle under the sink."
+
+Person 2: "Sure, which one do you need?"
+
+Person 2: "No, we might need to call a plumber."
+
+Person 2: "Yeah, let's go later in the afternoon."
+
+Person 2: "I'm not sure, let me take a look."
+
+Person 2: "Yeah, we should do that this weekend."
+
+Person 2: "I love feta cheese."
+
+Person 2: "Sure, which burner do you need?"
+
+Person 2: "Put a damp towel underneath it. It'll stay in place."
+
+Person 2: "Yeah, let's do it. What fruits do we have?"
+
+Person 2: "I think it's in the pantry on the top shelf."
+
+Person 2: "That's a great idea!"
+
+Person 2: "I think there's a little bit left in the freezer."
+
+Person 2: "Check the pantry, I might have bought some yesterday."
+
+Person 2: "Yeah, let's buy a new one."
+
+Person 2: "Yes, please. I love croutons."
+
+Person 2: "Yes, it's under the sink."
+
+Person 2: "Sure, I love pancakes. What kind do we have?"
+
+Person 2: "Sure, let me take a look."
+
+Person 2: "No, we ran out yesterday."
+
+Person 2: "Okay, let me try."
+
+Person 2: "Let me try fixing it."
+
+Person 2: "No, we don't. Should I buy some?"
+
+Person 2: "Put it in a paper bag with a banana. It'll ripen faster."
+
+Person 2: "Sure, let me get the manual one."
+
+Person 2: "Yeah, we should look for a new one."
+
+Person 2: "Yes, they're in the pantry on the top shelf."
+
+Person 2: "Let's adjust the temperature."
+
+Person 2: "Yes, it's in the cupboard next to the stove."
+
+Person 2: "Yeah, let's do that."
+
+Person 2: "Yes, they're in the pantry on the bottom shelf."
+
+Person 2: "Yes, it's in the spice rack."
+
+Person 2: "Yes, please. Get some milk too."
+
+Person 2: "Yes, let's throw them in the washing machine."
+
+Person 2: "Yes, they're in the fridge."
+
+Person 2: "Sure, let me take a look."
+
+Person 2: "No, let's go to the store and get some stock."
+
+Person 2: "Yes, let me take a look."
+
+Person 2: "Yes, you can use penne instead."
+
+Person 2: "No, we ran out yesterday. Should I buy some?"
+
+Person 2: "Yes, get some cinnamon too."
+
+Person 2: "Sure, let me take a look."
+
+Person 2: "Yeah, let's use the sharpening stone."
+
+Person 2: "Yes, it's in the fridge."
+
+Person 2: "Yes, get some carrots too."
+
+Person 2: "Yes, let's get an electric one."
+
+Person 2: "Yes, it's in the pantry on the top shelf."
+
+Person 2: "Yes, get some bacon too."
+
+Person 2: "Sure, I'll run a cycle with some vinegar."
+
+Person 2: "Yes, they're in the cupboard next to the fridge."
+
+Person 2: "Yes, get some mozzarella too."
+
+Person 2: "Okay, let me check the manual and see how to do it."
+
+Person 2: "No, let's go to the store and get some baking powder."
+
+Person 2: "Yeah, let's get a new one at the store."
+
+Person 2: "Yes, it's in the pantry on the middle shelf."
+
+Person 2: "Yes, get some celery too."
+
+Person 2: "Yeah, let's unplug it and wipe it down with some soapy water."
+
+Person 2: "Yes, they're in the bottom drawer next to the oven."
+
+Person 2: "Yes, get some yogurt too."
+
+Person 2: "Sure, let me plug it in and see what's wrong."
+
+Person 2: "Yes, it's in the fridge on the top shelf."
+
+Person 2: "Yes, get some salt too."
+
+Person 2: "Sure, let me see if it's plugged in properly."
+
+Person 2: "Yes, it's in the spice rack."
+
+Person 2: "Yes, get some butter too."
+
+Person 2: "Sure, let me listen to it for a bit."
+
+Person 2: "Yes, they're in the pantry on the bottom shelf."
+
+Person 2: "Yes, get some whipped cream too."
+
+Person 2: "Yeah, let's get a new one at the store."
+
+Person 2: "Yes, it's in the spice rack next to the garlic powder."
+
+Person 2: "Yes, get some ground beef too."
+
+Person 2: "Sure, let me run it and see if I can spot any issues."
+
+Person 2: "Yes, they're in the fruit basket on the counter."
+
+Person 2: "Yes, get some cilantro too."
+
+Person 2: "Sure, let me turn it on and see if it's reaching the right temperature."
+
+Person 2: "Yes, it's in the fridge on the door."
+
+Person 2: "Yes, get some broccoli too."
+
+Person 2: "Sure, let me try to open a can and see if it's working properly."
+
+Person 2: "Yes, they're in the spice rack next to the paprika."
+
+Person 2: "Yes, get some tahini too."
+
+Person 2: "Yeah, let's run some vinegar through it to clean it."
+
+Person 2: "Yes, it's in the pantry on the top shelf."
+
+Person 2: "Yes, get some ricotta cheese too."
+
+Person 2: "Sure, let me see how much we have left."
+
+Person 2: "Yes, it's in the pantry on the bottom shelf."
+
+Person 2: "Yes, get some bacon too."
+
+Person 2: "Sure, let me heat up some water and see if it's still working properly."
+
+Person 2: "Yes, it's in the pantry on the middle shelf."

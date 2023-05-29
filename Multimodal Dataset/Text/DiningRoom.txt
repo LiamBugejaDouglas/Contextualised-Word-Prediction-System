@@ -1,0 +1,199 @@
+Person 2: "Yes, it adds a nice pop of color to the room."
+
+Person 2: "Sure, here you go."
+
+Person 2: "It's a bit overcooked for my liking."
+
+Person 2: "No thanks, I've had enough for now."
+
+Person 2: "Yes, please! It looks delicious."
+
+Person 2: "I love brie."
+
+Person 2: "No, but I've heard it's really good."
+
+Person 2: "I prefer forks."
+
+Person 2: "I like it medium rare."
+
+Person 2: "I love linguine."
+
+Person 2: "I think they look great."
+
+Person 2: "No, I'm good with the ones we have."
+
+Person 2: "They're comfortable, but they clash with the table."
+
+Person 2: "I like it with ice."
+
+Person 2: "I love salmon rolls."
+
+Person 2: "I prefer still water."
+
+Person 2: "They're nice, but a bit too delicate for my taste."
+
+Person 2: "I prefer rare."
+
+Person 2: "I like it, it's sleek and modern."
+
+Person 2: "I love tomato soup."
+
+Person 2: "I like it with cream and sugar."
+
+Person 2: "They're a bit too busy for my taste."
+
+Person 2: "I prefer scrambled."
+
+Person 2: "I love sourdough."
+
+Person 2: "It's a bit too big for the table."
+
+Person 2: "I prefer red wine."
+
+Person 2: "I love shrimp."
+
+Person 2: "I prefer cold drinks."
+
+Person 2: "I think they look elegant."
+
+Person 2: "I prefer them cooked."
+
+Person 2: "I love strawberries."
+
+Person 2: "I like it without sauce."
+
+Person 2: "They're a bit too thick for my liking."
+
+Person 2: "I prefer sweet breakfast foods."
+
+Person 2: "I love balsamic vinaigrette."
+
+Person 2: "It's a bit too bulky for my taste."
+
+Person 2: "I like it with milk."
+
+Person 2: "I love bacon cheeseburgers."
+
+Person 2: "It's nice, but a bit too ornate for my taste."
+
+Person 2: "I prefer thin crust pizza."
+
+Person 2: "I love chocolate chip cookie dough."
+
+Person 2: "I prefer savory snacks."
+
+Person 2: "I think it's a bit too flashy."
+
+Person 2: "I prefer them well done."
+
+Person 2: "I love turkey and avocado sandwiches."
+
+Person 2: "They're a bit too small for my liking."
+
+Person 2: "I prefer red sauce."
+
+Person 2: "I love orange juice."
+
+Person 2: "I prefer mild foods."
+
+Person 2: "It's nice, but a bit too heavy."
+
+Person 2: "I like it with seasoning."
+
+Person 2: "I love chicken noode soup."
+
+Person 2: "I prefer it toasted."
+
+Person 2: "It's a bit too busy for my taste."
+
+Person 2: "I like it with cream."
+
+Person 2: "I love strawberry banana smoothies."
+
+Person 2: "I prefer it cooked on the grill."
+
+Person 2: "They're a bit too small for my liking."
+
+Person 2: "I prefer them scrambled."
+
+Person 2: "I love Cabernet Sauvignon."
+
+Person 2: "I prefer it hot."
+
+Person 2: "They're a bit too heavy."
+
+Person 2: "I like them with syrup."
+
+Person 2: "I love Caesar salad."
+
+Person 2: "I prefer them roasted."
+
+Person 2: "They're a bit too plain for my taste."
+
+Person 2: "I prefer it grilled."
+
+Person 2: "I love sourdough bread."
+
+Person 2: "I prefer them without ice."
+
+Person 2: "They're a bit too bulky for my liking."
+
+Person 2: "I like it with wasabi."
+
+Person 2: "I love dark chocolate."
+
+Person 2: "I prefer it mild."
+
+Person 2: "They're a bit too hard."
+
+Person 2: "I like it medium."
+
+Person 2: "I love spaghetti with meatballs."
+
+Person 2: "I prefer them sweet."
+
+Person 2: "They're a bit too thin for my liking." 
+
+Person 2: "I prefer it creamy."
+
+Person 2: "I love brie cheese."
+
+Person 2: "I prefer them in a glass."
+
+Person 2: "They're a bit too heavy."
+
+Person 2: "I like it with thin crust."
+
+Person 2: "I love green tea."
+
+Person 2: "I prefer it with sauce."
+
+Person 2: "They're a bit too difficult to use."
+
+Person 2: "I like it crispy."
+
+Person 2: "I love mangoes."
+
+Person 2: "I prefer them without bubbles."
+
+Person 2: "They're a bit too modern for my taste."
+
+Person 2: "I prefer it roasted."
+
+Person 2: "I love tomato soup."
+
+Person 2: "It depends on the drink. I prefer coffee hot and soda cold."
+
+Person 2: "They're a bit too fragile for my liking."
+
+Person 2: "I like them medium."
+
+Person 2: "I love shrimp."
+
+Person 2: "I prefer them without pulp."
+
+Person 2: "They're a bit too small for large gatherings."
+
+Person 2: "I like it fluffy."
+
+Person 2: "I love chocolate cake."

@@ -1,0 +1,199 @@
+Person 2: "Sure thing."
+
+Person 2: "Yeah, it's been a problem lately."
+
+Person 2: "It's in the cabinet."
+
+Person 2: "I like liquid soap better."
+
+Person 2: "Sure, let's try using some drain cleaner."
+
+Person 2: "Yeah, it's the best for removing stains."
+
+Person 2: "Sure, let me know what you need me to do."
+
+Person 2: "Yeah, I have an extra bottle you can use."
+
+Person 2: "I think it's fine, it just needs to be cleaned."
+
+Person 2: "No, everything seems to be fine."
+
+Person 2: "Yeah, it's in the top drawer."
+
+Person 2: "Yeah, I'll replace it after I finish."
+
+Person 2: "Yeah, it's starting to get a bit moldy."
+
+Person 2: "I like scented hand soap, it smells nice."
+
+Person 2: "I use vinegar and baking soda, it works wonders."
+
+Person 2: "I use Tide, it works really well."
+
+Person 2: "Let's try using a plunger to unclog it."
+
+Person 2: "Yeah, I agree, let's buy a new one this weekend."
+
+Person 2: "I like liquid detergent, it dissolves better."
+
+Person 2: "Yeah, I'll buy one on my way home today."
+
+Person 2: "I use a charcoal face mask, it works really well for my skin."
+
+Person 2: "Sure, let me grab some gloves and a rag."
+
+Person 2: "Let's try using a plunger, it might be clogged."
+
+Person 2: "Yeah, I've heard it can be really beneficial for your skin and hair."
+
+Person 2: "Yeah, they sell them at the drugstore down the street."
+
+Person 2: "Yeah, it's in the medicine cabinet."
+
+Person 2: "No, I don't really see the point."
+
+Person 2: "Sure, let me grab a screwdriver."
+
+Person 2: "I use a mixture of vinegar and dish soap, it works really well."
+
+Person 2: "Let's try using some rubbing alcohol or nail polish remover."
+
+Person 2: "Yeah, I agree, let's buy a new one this weekend."
+
+Person 2: "Yeah, it's in the cabinet."
+
+Person 2: "It might be a problem with the water heater, we should call a plumber."
+
+Person 2: "I use a coffee body scrub, it smells really good and exfoliates well."
+
+Person 2: "Yeah, let's buy a new one this weekend."
+
+Person 2: "I like body wash better, it feels more luxurious."
+
+Person 2: "We might need to replace the flapper valve, I can look it up online."
+
+Person 2: "Yeah, I use witch hazel, it's really good for balancing your skin's pH."
+
+Person 2: "Try using a hair catcher in the shower, it's really effective."
+
+Person 2: "Yeah, let's buy a new one this weekend."
+
+Person 2: "Let's try using a mixture of water and vinegar, it should help lift the stain."
+
+Person 2: "Sure, let me take a look. It might just need to be refilled."
+
+Person 2: "I use Listerine, it's really strong but it works well."
+
+Person 2: "Yeah, let's buy a new one this weekend."
+
+Person 2: "Sure, I'll grab the refill from under the sink."
+
+Person 2: "I like the Nivea brand, it's really moisturizing and not too expensive."
+
+Person 2: "Let's throw it out and buy a new one, it's not worth the risk of getting sick."
+
+Person 2: "I'm not sure, but we should probably call a plumber to take a look."
+
+Person 2: "I use the Gillette Venus razors, they work really well and last a long time."
+
+Person 2: "No, I don't really need one since I have short hair."
+
+Person 2: "Sure, let me grab a screwdriver."
+
+Person 2: "We can try adding some bathmat stickers, they should provide more traction."
+
+Person 2: "They sell it at the drugstore down the street."
+
+Person 2: "Let's try using a plunger or some drain cleaner."
+
+Person 2: "I prefer liquid soap, it's more hygienic and easier to use."
+
+Person 2: "We can try using a drain snake or some baking soda and vinegar."
+
+Person 2: "I use a charcoal face mask, it's really good for deep cleaning and removing impurities."
+
+Person 2: "We could try to fix it or buy a new one."
+
+Person 2: "Yeah, I have some ibuprofen in my purse, you can take one."
+
+Person 2: "No, sorry. You can try buying some at the pharmacy down the street."
+
+Person 2: "There's a Walgreens a few blocks away, they should have what you need."
+
+Person 2: "Yeah, there's a box on the back of the toilet."
+
+Person 2: "I have some hydrocortisone cream, it should help with the itching and inflammation."
+
+Person 2: "No, sorry. But we can buy one at the drugstore if you want."
+
+Person 2: "Yeah, I have some in my purse. You can take one."
+
+Person 2: "No, sorry. But we can buy some at the pharmacy if you want."
+
+Person 2: "Yeah, there's a first-aid kit in the cabinet under the sink."
+
+Person 2: "No, sorry. But we can buy some at the pharmacy if you want."
+
+Person 2: "Yeah, there's an ice pack in the freezer. I'll go get it for you."
+
+Person 2: "Yeah, I have some in the cabinet under the sink. Let me go get it for you."
+
+Person 2: "They're on the towel rack by the shower. I'll grab one for you."
+
+Person 2: "No, sorry. But we can ask the landlord to send a plumber to take a look."
+
+Person 2: "You can try soaking it in a mixture of vinegar and water, that should help."
+
+Person 2: "It's on the second floor, near the elevators. Just remember to bring some quarters with you."
+
+Person 2: "Yeah, there's one behind the toilet. Let me grab it for you."
+
+Person 2: "It's on the soap dish by the sink. I'll get it for you."
+
+Person 2: "No, sorry but we can ask the landlord to take a look at it."
+
+Person 2: "There's a Target nearby, they should have some."
+
+Person 2: "No, sorry but we can call the maintenance department to take a look."
+
+Person 2: "You can try putting it in a bowl of uncooked rice overnight, that should absorb the moisture."
+
+Person 2: "You can use a mixture of baking soda and vinegar, that should help with any stains."
+
+Person 2: "There's a CVS down the street, they should have some."
+
+Person 2: "You can try washing it in hot water with some bleach, that should get rid of the mold."
+
+Person 2: "No, sorry. But we can ask the landlord to send a plumber to take a look."
+
+Person 2: "They're in the cabinet under the sink. I'll grab one for you."
+
+Person 2: "You can use some glass cleaner and a microfiber cloth, that should make it sparkle."
+
+Person 2: "No, sorry. But we can ask the landlord to adjust the thermostat."
+
+Person 2: "No, sorry. But we can buy some at the drugstore if you want."
+
+Person 2: "No, sorry. But we can ask the landlord to send a maintenance person to fix it."
+
+Person 2: "Yeah, I have some in my bag. Let me get them for you."
+
+Person 2: "Yeah, there's one in the cabinet under the sink. Let me get it for you."
+
+Person 2: "No, sorry. But we can buy some at the drugstore if you want."
+
+Person 2: "You can try adjusting the chain inside the tank, that might stop the running."
+
+Person 2: "No, sorry. But we can buy some at the grocery store if you want."
+
+Person 2: "No, sorry. But we can ask the landlord to send someone to change it."
+
+Person 2: "You can try opening a window or turning on the exhaust fan, that should help."
+
+Person 2: "No, sorry. But we can buy some at the drugstore if you want."
+
+Person 2: "Yeah, there's some on the shelf above the toilet. Let me get it for you."
+
+Person 2: "No, sorry. But we can ask the landlord to send a plumber to take a look."
+
+Person 2: "I think there is some in the medicine box."
